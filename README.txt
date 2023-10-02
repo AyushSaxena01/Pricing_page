@@ -1,0 +1,1 @@
+Created a responsive pricing page using tailwind css.  
